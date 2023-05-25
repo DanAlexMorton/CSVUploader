@@ -1,0 +1,17 @@
+C:\Users\donal\Work\CSVTEST\CSVTEST\bin\Debug\net7.0-windows\CSVTEST.exe
+C:\Users\donal\Work\CSVTEST\CSVTEST\bin\Debug\net7.0-windows\CSVTEST.deps.json
+C:\Users\donal\Work\CSVTEST\CSVTEST\bin\Debug\net7.0-windows\CSVTEST.runtimeconfig.json
+C:\Users\donal\Work\CSVTEST\CSVTEST\bin\Debug\net7.0-windows\CSVTEST.dll
+C:\Users\donal\Work\CSVTEST\CSVTEST\bin\Debug\net7.0-windows\CSVTEST.pdb
+C:\Users\donal\Work\CSVTEST\CSVTEST\obj\Debug\net7.0-windows\CSVTEST.csproj.AssemblyReference.cache
+C:\Users\donal\Work\CSVTEST\CSVTEST\obj\Debug\net7.0-windows\CSVTEST.Form1.resources
+C:\Users\donal\Work\CSVTEST\CSVTEST\obj\Debug\net7.0-windows\CSVTEST.csproj.GenerateResource.cache
+C:\Users\donal\Work\CSVTEST\CSVTEST\obj\Debug\net7.0-windows\CSVTEST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\donal\Work\CSVTEST\CSVTEST\obj\Debug\net7.0-windows\CSVTEST.AssemblyInfoInputs.cache
+C:\Users\donal\Work\CSVTEST\CSVTEST\obj\Debug\net7.0-windows\CSVTEST.AssemblyInfo.cs
+C:\Users\donal\Work\CSVTEST\CSVTEST\obj\Debug\net7.0-windows\CSVTEST.csproj.CoreCompileInputs.cache
+C:\Users\donal\Work\CSVTEST\CSVTEST\obj\Debug\net7.0-windows\CSVTEST.dll
+C:\Users\donal\Work\CSVTEST\CSVTEST\obj\Debug\net7.0-windows\refint\CSVTEST.dll
+C:\Users\donal\Work\CSVTEST\CSVTEST\obj\Debug\net7.0-windows\CSVTEST.pdb
+C:\Users\donal\Work\CSVTEST\CSVTEST\obj\Debug\net7.0-windows\CSVTEST.genruntimeconfig.cache
+C:\Users\donal\Work\CSVTEST\CSVTEST\obj\Debug\net7.0-windows\ref\CSVTEST.dll
